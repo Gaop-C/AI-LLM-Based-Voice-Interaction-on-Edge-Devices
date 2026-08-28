@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/Gaop-C/AI-LLM-Based-Voice-Interaction-on-Edge-Devices.svg)](https://github.com/Gaop-C/AI-LLM-Based-Voice-Interaction-on-Edge-Devices/stargazers)
 
 ## 📦 平台要求
-Linux系统、ARM64架构
+Linux系统、ARM64架构（测试平台Raspberry Pi5 8G）
 
 ## 🚀 快速开始
 
